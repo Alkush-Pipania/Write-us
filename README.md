@@ -7,6 +7,7 @@ we started it using technologies
 <br />--supabase
 <br />--dribble
 <br />--tailwind
+<br />--typescript
 <br />--prisma
 <br />many more as we go further update will shown here ...
 <br />follow us for more update
