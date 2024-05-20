@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-<br />## collaboration platform for writing ideas , notes, many more
+## collaboration platform for writing ideas , notes, many more
 
 we started it using technologies  
 <br />--nextjs
